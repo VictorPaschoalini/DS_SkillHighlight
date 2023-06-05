@@ -1,4 +1,10 @@
 # DataSciencePortfolio
-A collection of data science projects to showcase basic my skills.
+A collection of data science projects to showcase my skills. (The more basic ones)
 
-## teste
+## Contents
+
+- EDA Project
+- Classification Project
+- Regression Project
+- Clustering Project
+- Deep Learning Project
