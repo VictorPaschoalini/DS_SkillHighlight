@@ -9,4 +9,5 @@ Originally made in Kaggle (https://www.kaggle.com/victorpaschoalini).
 - Classification Project
 - Regression Project
 - Clustering Project
-- Deep Learning Project
+- Deep Learning Project (Computer Vision)
+- Random Florest Project (Credit Default Prediction Model)
