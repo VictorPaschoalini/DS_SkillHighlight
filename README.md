@@ -10,4 +10,5 @@ Originally made in Kaggle (https://www.kaggle.com/victorpaschoalini).
 - Regression Project
 - Clustering Project
 - Deep Learning Project (Computer Vision)
-- Random Florest Project (Credit Default Prediction Model)
+- Random Forest Project (Credit Default Prediction Model)
+- Time Series Project (Sales, Stock Forecasting)
