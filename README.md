@@ -1,5 +1,5 @@
-# DataSciencePortfolio
-A collection of data science projects (by skill used).
+# DataScience_Skill_Highlights
+A collection of small to medium size data science projects (by skill used).
 
 Originally made in Kaggle (https://www.kaggle.com/victorpaschoalini).
 
